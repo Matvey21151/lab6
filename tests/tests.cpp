@@ -1,4 +1,4 @@
-// Copyright 2022 siruser agamesok@gmail.com
+// Copyright 2022 Matvey21151
 
 #include <gtest/gtest.h>
 

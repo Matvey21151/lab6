@@ -1,4 +1,4 @@
-// Copyright 2022 siruser agamesok@gmail.com
+// Copyright 2022 Matvey21151
 
 #ifndef TEMPLATE_LOGGING_H
 #define TEMPLATE_LOGGING_H
